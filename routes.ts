@@ -1,5 +1,5 @@
 export const publicRoutes = ["/", "/auth/new-verification"];
-
+// 
 //These Routes will redirect logged user to settings
 export const authRoutes = ["/auth/login", "/auth/register", "/auth/error"];
 
